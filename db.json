@@ -1,0 +1,17 @@
+[
+	{
+		"id" : 1,
+		"nama" : "jono",
+		"alamat" : "malang"
+	},
+	{
+		"id" : 2,
+		"nama" : "jojon",
+		"alamat" : "pasuruan"
+	},
+	{
+		"id" : 3,
+		"nama" : "jujun",
+		"alamat" : "pasuruan"
+	}
+]
